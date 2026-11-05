@@ -1,4 +1,4 @@
-### Crossed-Cantilever DIY 3D Printer (Public Beta)
+### FINALLY, A FULLY OPEN CORNERPIECE VERSION OF ANNEX K3!
 
 Welcome to the official repository for the **N3D**, a Crossed-Cantilever 3D Printer originally released by [Casual CNC](https://www.youtube.com/@CasualCNC).
 
